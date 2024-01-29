@@ -59,7 +59,7 @@ A target defines the view or component that is displayed. It is associated with 
 
         The `NavContainer` control, for example, has an aggregation called `Pages` and the shell container has `Content`.
 
-    -   `parent`: the key of another target which a view is created and added before the target view or component is added
+    -   `parent`: the key of another target whose view is created and added before the target view or component is added
 
     -   `path`: the namespace of the view or component
 
